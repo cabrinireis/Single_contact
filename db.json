@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nome": "cabrini",
+      "sobrenome": "alves",
+      "telefone": "1111111111111111111",
+      "cpf": "32116516516",
+      "email": "sdfasdf@gmail.com",
+      "id": 1
+    }
+  ]
+}
